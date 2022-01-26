@@ -1,0 +1,3 @@
+[submodule "mBB/cuboidIntersectionVolume_src/gpc"]
+	path = mBB/cuboidIntersectionVolume_src/gpc
+	url = https://github.com/rickbrew/GeneralPolygonClipper
