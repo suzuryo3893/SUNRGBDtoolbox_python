@@ -17,3 +17,4 @@ To use cuboidIntersectionVolume, compile required.
 * cmake
 * Any compiler
     * Confirmed with gcc 9.3.0
+* pybind11
